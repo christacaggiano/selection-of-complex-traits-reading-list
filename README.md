@@ -7,6 +7,8 @@
 
 - https://www.pnas.org/content/early/2017/05/15/1701805114
 - https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pmc/articles/PMC3982664/
+- https://www.pnas.org/content/72/1/143
+- https://www.pnas.org/content/104/16/6736
 - https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(16)30114-8
 - https://onlinelibrary.wiley.com/doi/pdf/10.1111/jeb.12566 
 - https://evolution-institute.org/richard-dawkins-edward-o-wilson-and-the-consensus-of-the-many/
